@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "ms-azuretools.vscode-docker", 
+        "mikestead.dotenv", 
+        "eamodio.gitlens",
+        "pkief.material-icon-theme", 
+        "zhuangtongfa.material-theme",
+        "ms-vscode-remote.remote-ssh",
+        "shan.code-settings-sync",
+        "njpwerner.autodocstring",
+        "ms-python.vscode-pylance", 
+        "yzhang.markdown-all-in-one", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "dzgmelody.vscode-changelog-snippets"
+    ]
+}
