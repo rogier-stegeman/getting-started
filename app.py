@@ -1,3 +1,3 @@
 import time
 print("Hello World!")
-time.sleep(600)
+time.sleep(300)
