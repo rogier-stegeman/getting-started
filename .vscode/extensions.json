@@ -12,6 +12,7 @@
         "ms-python.vscode-pylance", 
         "yzhang.markdown-all-in-one", 
         "shd101wyy.markdown-preview-enhanced", 
-        "dzgmelody.vscode-changelog-snippets"
+        "dzgmelody.vscode-changelog-snippets",
+        "octref.vetur"
     ]
 }
